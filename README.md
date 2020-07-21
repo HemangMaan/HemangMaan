@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Hemang 👋👨‍💻
 
-<!--
-**HemangMaan/HemangMaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who is passionate about developing technology solutions for people while learning about latest technologies. I'm attracted towards beautifully designed User Interfaces and smooth User Experiences. Some technologies I enjoy working with Unity , Flutter and Web Design and Development. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Current work
+- 🔭 I’m currently working on Smart India Hackathon 2020(Hardware Edition) - Developing an VR solution for training the Common peoples from fire hazards at places like Home,Office, Lab.
+- 🌱 I’m currently learning Flutter app Development, UI/UX design.
+- 👯 I’m looking to collaborate on <a href="https://github.com/HemangMaan/ECommerce-flutter-app">ECommerce-flutter-app</a>
+- 💬 Ask me about latest technologies and technical solution about laptop,computers and mobiles.
+### 📫 How to reach me:
+- 👨‍🎨 Learning about UI/UX and design <a href="https://www.behance.net/hemangmaan">Behance</a>
+- 👨‍💻 Contacting for collaboration and help in project <a href="mailto: hemangmaan@gmail.com">Email</a> me.
+- 🤗 Sharing updates on <a href="https://www.linkedin.com/in/hemangmaan">LinkedIn</a>
+
