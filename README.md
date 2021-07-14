@@ -4,8 +4,7 @@ I'm a software engineer who is passionate about developing technology solutions 
 
 
 ## About Current work
-- 🔭 I’m currently working on Smart India Hackathon 2020(Hardware Edition) - Developing an VR solution for training the Common peoples from fire hazards at places like Home,Office, Lab.
-- 🌱 I’m currently learning Flutter app Development, UI/UX design.
+- 🌱 I’m currently learning AR app Development, UI/UX design.
 - 👯 I’m looking to collaborate on <a href="https://github.com/HemangMaan/ECommerce-flutter-app">ECommerce-flutter-app</a>
 - 💬 Ask me about latest technologies and technical solution about laptop,computers and mobiles.
 ### 📫 How to reach me:
